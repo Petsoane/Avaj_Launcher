@@ -1,8 +1,9 @@
 package com.lpetsoan.Aircrafts.Factories;
 
 import com.lpetsoan.Coordinates;
-import com.lpetsoan.Aircrafts.Baloon;
+import com.lpetsoan.Aircrafts.*;
 import com.lpetsoan.Aircrafts.Interfaces.Flyable;
+
 
 import java.lang.Exception;
 
@@ -16,6 +17,13 @@ public class AircraftFactory {
         switch(type){
             case "Baloon":
                 ret = new Baloon(name, c);
+                break;
+            case "Helicopter":
+                ret = new Helicopter(name, c);
+                break;
+            case "JetPlane":
+                ret = new JetPlane(name, c);
+                break;
         }
 
         if (ret == null){

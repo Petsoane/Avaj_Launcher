@@ -1,13 +1,15 @@
 package com.lpetsoan.Aircrafts;
 
+import com.lpetsoan.Towers.Tower;
+
 import com.lpetsoan.Coordinates;
 import com.lpetsoan.Aircrafts.Interfaces.*;
 import com.lpetsoan.Towers.WeatherTower;
 
-public class Baloon extends Aircraft implements Flyable {
+public class Helicopter extends Aircraft implements Flyable{
     private WeatherTower weatherTower;
 
-    public Baloon(String name, Coordinates coordinates){
+    public Helicopter(String name, Coordinates coordinates){
         super(name, coordinates);
         // this.weatherTower = null;
     }
@@ -24,26 +26,26 @@ public class Baloon extends Aircraft implements Flyable {
 
         switch(condition){
             case "RAIN": 
-                this.coordinates.dcrHeight(5);
+                this.coordinates.incLongitude(5);
                 System.out.println("BOOHOO ITS RAINING"); 
                 break;
             case "FOG":
-                this.coordinates.dcrHeight(3);
+                this.coordinates.incLongitude(1);
                 print("I cant see shit up here.");
                 break;
             case "SNOW":
-                this.coordinates.dcrHeight(15);
+                this.coordinates.dcrHeight(12);
                 print("Saint nick must be in a hurry!!");
                 break;
             case "SUN":
-                this.coordinates.incLongitude(2);
-                this.coordinates.incHeight(4);
+                this.coordinates.incLongitude(10);
+                this.coordinates.incHeight(2);
                 print("Up we gooooo....");
                 break;
                 
         }
         if (this.coordinates.getHeight() == 0){
-            System.out.println("Unregister Baloon: " + this.name);
+            System.out.println("Unregister Helicopter: " + this.name);
             this.weatherTower.unregister(this);
             return;
         }
@@ -51,7 +53,6 @@ public class Baloon extends Aircraft implements Flyable {
     }
 
     private void print(String string){
-        System.out.println("Ballon#" + this.name + "("+ this.id + "):" + string);
+        System.out.println("Helicopter#" + this.name + "("+ this.id + "):" + string);
     }
-
 }

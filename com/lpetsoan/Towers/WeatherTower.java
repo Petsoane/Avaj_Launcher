@@ -9,7 +9,7 @@ public class WeatherTower extends Tower{
     @Override
     public void register(Flyable flyable){
         super.register(flyable);
-        flyable.registerTower(this);
+        System.out.println("##New flyer registered to the weather succesfully");
     }
 
     public void changeWeather(){

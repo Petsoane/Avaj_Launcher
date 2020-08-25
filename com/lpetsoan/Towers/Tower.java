@@ -1,14 +1,15 @@
 package com.lpetsoan.Towers;
 
-import java.util.Vector;
+import java.util.ArrayList;
+import java.util.concurrent.CopyOnWriteArrayList;
+import java.util.*;
 
 import com.lpetsoan.Aircrafts.Interfaces.Flyable;
 
 public abstract class Tower {
-    private Vector<Flyable> registeredFlyers;
+    private List<Flyable> registeredFlyers = new CopyOnWriteArrayList<Flyable>();//ArrayList<Flyable>();
 
     public Tower(){
-        registeredFlyers = new Vector<Flyable>();
 
     }
 
@@ -16,11 +17,16 @@ public abstract class Tower {
         registeredFlyers.add(flyable);
     }
     
-    private void unregister(Flyable flyable){
+    public void unregister(Flyable flyable){
         registeredFlyers.remove(flyable);
     }
 
     protected void conditionsChanged(){
-        registeredFlyers.forEach((flyer) -> flyer.updateConditions());
+        System.out.println("[The Vector size]: " + registeredFlyers.size());
+        if (registeredFlyers.size() != 0){
+            for (Flyable flyer : registeredFlyers){
+                flyer.updateConditions();
+            }
+        }
     }
 }

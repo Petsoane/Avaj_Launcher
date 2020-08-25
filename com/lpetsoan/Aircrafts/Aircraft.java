@@ -13,12 +13,11 @@ public abstract class Aircraft{
     public Aircraft(String name, Coordinates coordinates){
         this.name = name;
         this.coordinates = coordinates;
-        idCount = 0;
+        this.id = idCount++;
     }
 
     public long nextId(){
-        this.id = idCount++;
-        return this.id;
+        return this.idCount;
     }
 
 }

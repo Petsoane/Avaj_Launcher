@@ -2,9 +2,7 @@ package com.lpetsoan;
 
 import com.lpetsoan.Aircrafts.Factories.AircraftFactory;
 import com.lpetsoan.Aircrafts.Interfaces.Flyable;
-import com.lpetsoan.Towers.Tower;
 import com.lpetsoan.Towers.WeatherTower;
-import com.lpetsoan.WeatherProvider.WeatherProvider;
 
 
 public class Simulator {
@@ -16,9 +14,13 @@ public class Simulator {
         WeatherTower t = new WeatherTower();
 
         try{
-            Flyable f = af.newAircraft("Baloon", "Boobies baloon", 58, 12, 12);
+            Flyable b = af.newAircraft("Baloon", "Boobies baloon", 340, 400, 100);
+            Flyable hc = af.newAircraft("Helicopter", "Boobies Helipcopter", 34, 12, 10);
+            Flyable jp = af.newAircraft("JetPlane", "Boobies Jet", 34, 12, 10);
 
-            t.register(f);
+            b.registerTower(t);
+            jp.registerTower(t);
+            hc.registerTower(t);
 
             for (int i = 0; i < 5; i++)
                 t.changeWeather();
