@@ -6,7 +6,7 @@ import com.lpetsoan.Coordinates;
 import com.lpetsoan.Aircrafts.Interfaces.*;
 import com.lpetsoan.Towers.WeatherTower;
 
-public class Helicopter extends Aircraft implements Flyable{
+public class Helicopter extends Aircraft{
     private WeatherTower weatherTower;
 
     public Helicopter(String name, Coordinates coordinates){
@@ -27,20 +27,20 @@ public class Helicopter extends Aircraft implements Flyable{
         switch(condition){
             case "RAIN": 
                 this.coordinates.incLongitude(5);
-                print("BOOHOO ITS RAINING"); 
+                print("Time to find greener pastures."); 
                 break;
             case "FOG":
                 this.coordinates.incLongitude(1);
-                print("I cant see shit up here.");
+                print("Meh");
                 break;
             case "SNOW":
                 this.coordinates.dcrHeight(12);
-                print("Saint nick must be in a hurry!!");
+                print("Going down.");
                 break;
             case "SUN":
                 this.coordinates.incLongitude(10);
                 this.coordinates.incHeight(2);
-                print("Up we gooooo....");
+                print("Perfect day for booty watching.");
                 break;
                 
         }
