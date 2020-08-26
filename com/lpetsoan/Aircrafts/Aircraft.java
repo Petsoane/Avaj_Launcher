@@ -1,8 +1,9 @@
 package com.lpetsoan.Aircrafts;
 
-import com.lpetsoan.*;
+import com.lpetsoan.Coordinates;
+import com.lpetsoan.Aircrafts.Interfaces.Flyable;
 
-public abstract class Aircraft{
+public abstract class Aircraft implements Flyable{
     static private long idCount;
     protected long id;
 
@@ -16,8 +17,16 @@ public abstract class Aircraft{
         this.id = idCount++;
     }
 
+    public String getName(){
+        return this.name;
+    }
+
+    public long getId(){
+        return this.id;
+    }
+
     public long nextId(){
-        return this.idCount;
+        return idCount;
     }
 
 }

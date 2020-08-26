@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.*;
 
+import com.lpetsoan.Aircrafts.Aircraft;
 import com.lpetsoan.Aircrafts.Interfaces.Flyable;
 
 public abstract class Tower {
@@ -14,15 +15,20 @@ public abstract class Tower {
     }
 
     public void register(Flyable flyable){
+        Aircraft tmp = (Aircraft)flyable;
+
         registeredFlyers.add(flyable);
+        System.out.println("Tower says: " + tmp.getName()+ " registered");
     }
     
     public void unregister(Flyable flyable){
+        Aircraft  tmp = (Aircraft)flyable;
+
         registeredFlyers.remove(flyable);
+        System.out.println("Tower says: " + tmp.getName() +" unregistered");
     }
 
     protected void conditionsChanged(){
-        System.out.println("[The Vector size]: " + registeredFlyers.size());
         if (registeredFlyers.size() != 0){
             for (Flyable flyer : registeredFlyers){
                 flyer.updateConditions();

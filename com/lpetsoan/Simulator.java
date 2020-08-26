@@ -8,7 +8,6 @@ import com.lpetsoan.Towers.WeatherTower;
 public class Simulator {
 
     public static void main(String[] args){
-        System.out.println("This is a simple compilation test");
 
         AircraftFactory af = new AircraftFactory();
         WeatherTower t = new WeatherTower();

@@ -22,10 +22,8 @@ public class WeatherProvider {
 
         conditions[] w = conditions.values();
         
-        System.out.println("Setting up quadrants");
         for (int i=0; i < 7; i++){
             choice = rand.nextInt(4);
-            System.out.println("[Random choice] " + choice);
 
             quads[i] = w[choice].toString();
         }

@@ -25,7 +25,7 @@ public class Baloon extends Aircraft implements Flyable {
         switch(condition){
             case "RAIN": 
                 this.coordinates.dcrHeight(5);
-                System.out.println("BOOHOO ITS RAINING"); 
+                print("Booho its raining");
                 break;
             case "FOG":
                 this.coordinates.dcrHeight(3);
@@ -42,12 +42,12 @@ public class Baloon extends Aircraft implements Flyable {
                 break;
                 
         }
+
         if (this.coordinates.getHeight() == 0){
             System.out.println("Unregister Baloon: " + this.name);
             this.weatherTower.unregister(this);
             return;
         }
-        System.out.println(this.name + " height " + this.coordinates.getHeight());
     }
 
     private void print(String string){

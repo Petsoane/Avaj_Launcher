@@ -25,7 +25,7 @@ public class JetPlane extends Aircraft implements Flyable{
         switch(condition){
             case "RAIN": 
                 this.coordinates.incLatitude(5);
-                System.out.println("BOOHOO ITS RAINING"); 
+                print("BOOHOO ITS RAINING"); 
                 break;
             case "FOG":
                 this.coordinates.incLongitude(1);
@@ -47,7 +47,6 @@ public class JetPlane extends Aircraft implements Flyable{
             this.weatherTower.unregister(this);
             return;
         }
-        System.out.println(this.name + " height " + this.coordinates.getHeight());
     }
 
     private void print(String string){
