@@ -1,7 +1,6 @@
 package com.lpetsoan.Aircrafts;
 
 import com.lpetsoan.Coordinates;
-import com.lpetsoan.Aircrafts.Interfaces.*;
 import com.lpetsoan.Towers.WeatherTower;
 
 public class JetPlane extends Aircraft {

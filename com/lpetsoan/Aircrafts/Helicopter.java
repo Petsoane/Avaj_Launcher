@@ -1,9 +1,6 @@
 package com.lpetsoan.Aircrafts;
 
-import com.lpetsoan.Towers.Tower;
-
 import com.lpetsoan.Coordinates;
-import com.lpetsoan.Aircrafts.Interfaces.*;
 import com.lpetsoan.Towers.WeatherTower;
 
 public class Helicopter extends Aircraft{
