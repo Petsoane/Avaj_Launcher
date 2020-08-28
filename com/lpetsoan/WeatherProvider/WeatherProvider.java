@@ -8,12 +8,11 @@ enum conditions{
     SUN, RAIN,FOG, SNOW
 }
 
-
 public class WeatherProvider {
-    
+
     private static WeatherProvider weatherProvider = null;
     private String quads[];
-    
+
     private WeatherProvider(){
         quads = new String[7];
 
@@ -21,7 +20,7 @@ public class WeatherProvider {
         int choice;
 
         conditions[] w = conditions.values();
-        
+
         for (int i=0; i < 7; i++){
             choice = rand.nextInt(4);
 
@@ -56,7 +55,7 @@ public class WeatherProvider {
             return quads[5];
         }
         else return quads[6];
-        
+
     }
-    
+
 }

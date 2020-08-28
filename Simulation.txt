@@ -1,4 +1,5 @@
 5
+Tower says: B1 registered
 5
 Tower says: B2 registered
 5
@@ -15,152 +16,209 @@ Tower says: B3 registered
 Tower says: J2 registered
 5
 Tower says: H4 registered
-Ballon#B2(0):Booho its raining
-JetPlane#J1(1):Above the clouds must be better
-Helicopter#H1(2):Going down.
-Helicopter#H2(3):Going down.
-Helicopter#H3(4):Perfect day for booty watching.
-Ballon#B3(5):Saint nick must be in a hurry!!
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Booho its raining
-JetPlane#J1(1):Above the clouds must be better
-Helicopter#H1(2):Going down.
-Unregister Helicopter: H1
-Tower says: H1 unregistered
-Helicopter#H2(3):Going down.
-Helicopter#H3(4):Perfect day for booty watching.
-Ballon#B3(5):Saint nick must be in a hurry!!
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Booho its raining
-JetPlane#J1(1):Above the clouds must be better
-Helicopter#H2(3):Perfect day for booty watching.
-Helicopter#H3(4):Perfect day for booty watching.
-Ballon#B3(5):Saint nick must be in a hurry!!
-Unregister Baloon: B3
-Tower says: B3 unregistered
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Booho its raining
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Perfect day for booty watching.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Saint nick must be in a hurry!!
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Perfect day for booty watching.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Saint nick must be in a hurry!!
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Going down.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Perfect day for booty watching.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Perfect day for booty watching.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Perfect day for booty watching.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Saint nick must be in a hurry!!
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Perfect day for booty watching.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Perfect day for booty watching.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Going down.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H2(3):Going down.
-Unregister Helicopter: H2
-Tower says: H2 unregistered
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Saint nick must be in a hurry!!
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Saint nick must be in a hurry!!
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Saint nick must be in a hurry!!
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
-Ballon#B2(0):Up we gooooo....
-JetPlane#J1(1):Lemme see if i can get out of this.
-Helicopter#H3(4):Perfect day for booty watching.
-JetPlane#J2(6):Tis a great day.
-Helicopter#H4(7):Time to find greener pastures.
+Ballon#B1(0):Booho its raining
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Perfect day for booty watching.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B1(0):Booho its raining
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Perfect day for booty watching.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B1(0):Booho its raining
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Perfect day for booty watching.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B1(0):Booho its raining
+Unregister Baloon: B1
+Tower says: B1 unregistered
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Tis a great day.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Booho its raining
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Booho its raining
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
+Ballon#B2(1):Up we gooooo....
+JetPlane#J1(2):Lemme see if i can get out of this.
+Helicopter#H1(3):Time to find greener pastures.
+Helicopter#H2(4):Time to find greener pastures.
+Helicopter#H3(5):Time to find greener pastures.
+Ballon#B3(6):Up we gooooo....
+JetPlane#J2(7):Lemme see if i can get out of this.
+Helicopter#H4(8):Time to find greener pastures.
