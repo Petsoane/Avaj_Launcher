@@ -84,7 +84,7 @@ public class Simulator {
      */
     private static void initObjects(WeatherTower weatherTower, List<String> list) throws Exception
     {
-        AircraftFactory af = new AircraftFactory();
+        // AircraftFactory af = new AircraftFactory();
         Flyable f;
         int longitude, latitude, height;
 
@@ -104,7 +104,7 @@ public class Simulator {
             }
             
             try{
-                f = af.newAircraft(options[0], options[1], longitude, latitude, height);
+                f = AircraftFactory.newAircraft(options[0], options[1], longitude, latitude, height);
                 f.registerTower(weatherTower);
             }
             catch(Exception e){

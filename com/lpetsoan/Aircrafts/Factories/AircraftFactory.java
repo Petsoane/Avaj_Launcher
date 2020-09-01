@@ -7,9 +7,9 @@ import com.lpetsoan.Aircrafts.Interfaces.Flyable;
 
 
 
-public class AircraftFactory {
+public abstract class AircraftFactory {
 
-    public Flyable newAircraft(String type, String name, int longitude, int latitude, int height) throws InvalidFlyableType
+    public static  Flyable newAircraft(String type, String name, int longitude, int latitude, int height) throws InvalidFlyableType
     {
         Coordinates c = new Coordinates(longitude, latitude, height);
         Flyable ret = null;
